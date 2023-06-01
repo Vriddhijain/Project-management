@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #task-list, #chat-box {
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #task-form, #message-form {
+    margin-top: 10px;
+  }
+  
+  #task-input, #message-input {
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  button[type="submit"] {
+    padding: 5px 10px;
+    color: white;
+    background-color: black;
+  }
+  
